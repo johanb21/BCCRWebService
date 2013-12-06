@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BCCR</string>
+    <string name="menu_settings">Settings</string>
+    <string name="hora_nombre">Hora Actual:</string><string name="fecha_nombre">Fecha Actual:</string>
+    <string name="venta_nombre">Venta:</string>
+    <string name="compra_nombre">Compra:</string>
+    <string name="loading">Loading&#8230;</string>
+
+</resources>
